@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+.catboost_info/
+*.pkl
+*.model
+.DS_Store
+*.csv
